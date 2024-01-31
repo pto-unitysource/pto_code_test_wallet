@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "984673907390",
+    "project_id": "pto-wallet",
+    "storage_bucket": "pto-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984673907390:android:1a25af8de7fbb09c8264ef",
+        "android_client_info": {
+          "package_name": "com.pto.codetest.pto_code_test_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984673907390-lrv8lhbag59rp168l1o2aqgtmq8jqtjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pto.codetest.pto_code_test_wallet",
+            "certificate_hash": "18d15d3f5def18aaf0c420162962ea4144653ac3"
+          }
+        },
+        {
+          "client_id": "984673907390-rqcf6chejcinm6sjkrqmgpbs7t4di7hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAjNjcJ5Al1AmODF3Keavplvn2G4aV_94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984673907390-rqcf6chejcinm6sjkrqmgpbs7t4di7hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
